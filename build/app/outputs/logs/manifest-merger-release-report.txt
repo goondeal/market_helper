@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:1:1-59:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\1ccbaf5bbe143fff7871acbb64d7fe0b\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\8b0fe25df9262b0263881abc766bae1e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\2ca99028639b6fa2fffdb40e29075427\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\0f5c8304ee1622828a7958bf3bfc458a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\6b3fda8860dd2e5490f1bc48e4f02e89\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\3860f1235a21c9da58dcaa08b3c30f99\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\d02115e19e6b2d3839eb53ae31503083\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\6c074f6579cc8a461efb100b3a597911\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\fe78b66b06f1f2e7325e8fb05338947f\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\34b685b11de7b8edf70f198fead0a84a\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\c1ab1ce9909c79469651f5703b767f2a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\a1e87f5443b1512d74d302dbaa8fc6ba\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\981be77d89984999b292f8f070c04784\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\690b0eadb2c0470bbd0e5e13d11d883b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\81dfbf2715ec37741034bedf2dcb949b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\4c2e97e882f0849314deda014d0b9623\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\ac2b68ab55d45a3fc9e264a2eac5bd2b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\bbf4aef949ecfb6b4113bd048a2454a9\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\3f429c01f2e253ce5cd71bf391ad7050\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\d48c255968e03e3da709bf2c46b78ab7\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\9096949aeb05c9997de0f9800d052f8e\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\3bdeda089732495dfae7be9369047e8f\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\ed2bdddf6a206917a5bebcc74904d19a\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:1:1-59:12
+	package
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:1:1-59:12
+		INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:1:1-59:12
+		INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:8:5-58:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\a1e87f5443b1512d74d302dbaa8fc6ba\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\a1e87f5443b1512d74d302dbaa8fc6ba\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\bbf4aef949ecfb6b4113bd048a2454a9\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\bbf4aef949ecfb6b4113bd048a2454a9\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\a1e87f5443b1512d74d302dbaa8fc6ba\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:10:9-38
+	android:icon
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:11:9-45
+	android:name
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:9:9-57
+activity#com.salamony.market_helper.MainActivity
+ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:12:9-40:20
+	android:launchMode
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:13:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:23:13-26:17
+	android:resource
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:25:15-52
+	android:name
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:24:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:32:13-35:17
+	android:resource
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:34:15-61
+	android:name
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:33:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:38:27-74
+meta-data#flutterEmbedding
+ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:53:9-55:33
+	android:value
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:55:13-30
+	android:name
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml:54:13-44
+uses-sdk
+INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\1ccbaf5bbe143fff7871acbb64d7fe0b\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\1ccbaf5bbe143fff7871acbb64d7fe0b\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\8b0fe25df9262b0263881abc766bae1e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\8b0fe25df9262b0263881abc766bae1e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\2ca99028639b6fa2fffdb40e29075427\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\2ca99028639b6fa2fffdb40e29075427\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\0f5c8304ee1622828a7958bf3bfc458a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\0f5c8304ee1622828a7958bf3bfc458a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\6b3fda8860dd2e5490f1bc48e4f02e89\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\6b3fda8860dd2e5490f1bc48e4f02e89\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\3860f1235a21c9da58dcaa08b3c30f99\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\3860f1235a21c9da58dcaa08b3c30f99\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\d02115e19e6b2d3839eb53ae31503083\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\d02115e19e6b2d3839eb53ae31503083\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\6c074f6579cc8a461efb100b3a597911\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\6c074f6579cc8a461efb100b3a597911\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\fe78b66b06f1f2e7325e8fb05338947f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\fe78b66b06f1f2e7325e8fb05338947f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\34b685b11de7b8edf70f198fead0a84a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\34b685b11de7b8edf70f198fead0a84a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\c1ab1ce9909c79469651f5703b767f2a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\c1ab1ce9909c79469651f5703b767f2a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\a1e87f5443b1512d74d302dbaa8fc6ba\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\a1e87f5443b1512d74d302dbaa8fc6ba\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\981be77d89984999b292f8f070c04784\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\981be77d89984999b292f8f070c04784\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\690b0eadb2c0470bbd0e5e13d11d883b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\690b0eadb2c0470bbd0e5e13d11d883b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\81dfbf2715ec37741034bedf2dcb949b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\81dfbf2715ec37741034bedf2dcb949b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\4c2e97e882f0849314deda014d0b9623\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\4c2e97e882f0849314deda014d0b9623\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\ac2b68ab55d45a3fc9e264a2eac5bd2b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\ac2b68ab55d45a3fc9e264a2eac5bd2b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\bbf4aef949ecfb6b4113bd048a2454a9\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\bbf4aef949ecfb6b4113bd048a2454a9\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\3f429c01f2e253ce5cd71bf391ad7050\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\3f429c01f2e253ce5cd71bf391ad7050\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\d48c255968e03e3da709bf2c46b78ab7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\d48c255968e03e3da709bf2c46b78ab7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\9096949aeb05c9997de0f9800d052f8e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\9096949aeb05c9997de0f9800d052f8e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\3bdeda089732495dfae7be9369047e8f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\3bdeda089732495dfae7be9369047e8f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\ed2bdddf6a206917a5bebcc74904d19a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\EL HUDA\.gradle\caches\transforms-2\files-2.1\ed2bdddf6a206917a5bebcc74904d19a\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\flutter\market_helper\android\app\src\main\AndroidManifest.xml

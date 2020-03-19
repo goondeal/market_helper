@@ -1,0 +1,5 @@
+A simple app does the hard calculation in the market for you
+
+Market Helper is an interactive, light-weight, and very easy-to-use app that calculates the price of whatever amount you type based on the price of its unit-weight, 
+
+Or calculates the weight  needed for a specific given budget, enjoy it !
