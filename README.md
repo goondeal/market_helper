@@ -5,9 +5,9 @@ that helps users with the annoying calculations in markets.
 
 view on Google ![Play Store](https://play.google.com/store/apps/details?id=com.salamony.market_helper)
 
-![](screenshots/s1.png =250*250)
-![](screenshots/s1.png =250*250)
-![](screenshots/s1.png =250*250)
+![](screenshots/s1.png =250x250)
+![](screenshots/s1.png =250x250)
+![](screenshots/s1.png =250x250)
 
 
 
