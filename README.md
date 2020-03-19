@@ -3,7 +3,7 @@
 Market Helper is a simple, reactive, and single-page application built with Flutter   
 that helps users with the annoying calculations in markets.
 
-https://raw.github.com/goondeal/market_helper/master/screenshots/s1.png
+(https://raw.github.com/goondeal/market_helper/master/screenshots/s1.png)
 https://raw.github.com/goondeal/market_helper/master/screenshots/s2.png
 https://raw.github.com/goondeal/market_helper/master/screenshots/s3.png
 
