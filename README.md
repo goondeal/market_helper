@@ -3,11 +3,11 @@
 Market Helper is a simple, reactive, and single-page application built with Flutter   
 that helps users with the annoying calculations in markets.
 
-view on google ![play](https://play.google.com/store/apps/details?id=com.salamony.market_helper)
+view on Google ![Play Store](https://play.google.com/store/apps/details?id=com.salamony.market_helper)
 
-![](screenshots/s1.png)
-![](screenshots/s1.png)
-![](screenshots/s1.png)
+![](screenshots/s1.png =250*250)
+![](screenshots/s1.png =250*250)
+![](screenshots/s1.png =250*250)
 
 
 
